@@ -1,0 +1,275 @@
+{
+    "Food": [{
+            "title": "Шаурма",
+            "place": "Оазис",
+            "cost": 120,
+            "type": {
+                "first": "fastfood",
+                "second": "Шаурма"
+            },
+            "img": "https://apelsinka-rezept.ru/wp-content/uploads/domachniy-gamburger.jpg"
+
+        },
+        {
+            "title": "Шаурма",
+            "place": "Даамдуу",
+            "cost": 140,
+            "type": {
+                "first": "fastfood",
+                "second": "Шаурма"
+            }
+        },
+        {
+            "title": "Шаурма",
+            "place": "Карпинка",
+            "cost": 120,
+            "type": {
+                "first": "fastfood",
+                "second": "Шаурма"
+            }
+        },
+        {
+            "title": "Шаурма",
+            "place": "Black_Star",
+            "cost": 130,
+            "type": {
+                "first": "fastfood",
+                "second": "Шаурма"
+            }
+        },
+        {
+            "title": "Шаурма",
+            "place": "Fast_Food",
+            "cost": 110,
+            "type": {
+                "first": "fastfood",
+                "second": "Шаурма"
+            }
+        },
+        {
+            "title": "Гамбургер",
+            "place": "Оазис",
+            "cost": 100,
+            "type": {
+                "first": "fastfood",
+                "second": "Гамбургер"
+            }
+        },
+        {
+            "title": "Гамбургер",
+            "place": "Даамдуу",
+            "cost": 110,
+            "type": {
+                "first": "fastfood",
+                "second": "Гамбургер"
+            }
+        },
+        {
+            "title": "Гамбургер",
+            "place": "Карпинка",
+            "cost": 105,
+            "type": {
+                "first": "fastfood",
+                "second": "Гамбургер"
+            }
+        },
+        {
+            "title": "Гамбургер",
+            "place": "Black_Star",
+            "cost": 150,
+            "type": {
+                "first": "fastfood",
+                "second": "Гамбургер"
+            }
+        },
+        {
+            "title": "Гамбургер",
+            "place": "Fast_Food",
+            "cost": 110,
+            "type": {
+                "first": "fastfood",
+                "second": "Гамбургер"
+            }
+        },
+        {
+            "title": "Хот-Дог",
+            "place": "Оазис",
+            "cost": 80,
+            "type": {
+                "first": "fastfood",
+                "second": "Хот-Дог"
+            }
+        },
+        {
+            "title": "Хот-Дог",
+            "place": "Даамдуу",
+            "cost": 70,
+            "type": {
+                "first": "fastfood",
+                "second": "Хот-Дог"
+            }
+        },
+        {
+            "title": "Хот-Дог",
+            "place": "Карпинка",
+            "cost": 80,
+            "type": {
+                "first": "fastfood",
+                "second": "Хот-Дог"
+            }
+        },
+        {
+            "title": "Хот-Дог",
+            "place": "Black_Star",
+            "cost": 90,
+            "type": {
+                "first": "fastfood",
+                "second": "Хот-Дог"
+            }
+        },
+        {
+            "title": "Хот-Дог",
+            "place": "Fast_Food",
+            "cost": 75,
+            "type": {
+                "first": "fastfood",
+                "second": "Хот-Дог"
+            }
+        },
+        {
+            "title": "Блинчики",
+            "place": "Оазис",
+            "cost": 50,
+            "type": {
+                "first": "fastfood",
+                "second": "Блинчики"
+            }
+        },
+        {
+            "title": "Блинчики",
+            "place": "Даамдуу",
+            "cost": 50,
+            "type": {
+                "first": "fastfood",
+                "second": "Блинчики"
+            }
+        },
+        {
+            "title": "Блинчики",
+            "place": "Карпинка",
+            "cost": 60,
+            "type": {
+                "first": "fastfood",
+                "second": "Блинчики"
+            }
+        },
+        {
+            "title": "Блинчики",
+            "place": "Black_Star",
+            "cost": 50,
+            "type": {
+                "first": "fastfood",
+                "second": "Блинчики"
+            }
+        },
+        {
+            "title": "Блинчики",
+            "place": "Fast_Food",
+            "cost": 50,
+            "type": {
+                "first": "fastfood",
+                "second": "Блинчики"
+            }
+        },
+        {
+            "title": "Фри",
+            "place": "Оазис",
+            "cost": 30,
+            "type": {
+                "first": "fastfood",
+                "second": "Фри"
+            }
+        },
+        {
+            "title": "Фри",
+            "place": "Даамдуу",
+            "cost": 40,
+            "type": {
+                "first": "fastfood",
+                "second": "Фри"
+            }
+        },
+        {
+            "title": "Фри",
+            "place": "Карпинка",
+            "cost": 30,
+            "type": {
+                "first": "fastfood",
+                "second": "Фри"
+            }
+        },
+        {
+            "title": "Фри",
+            "place": "Black_Star",
+            "cost": 35,
+            "type": {
+                "first": "fastfood",
+                "second": "Фри"
+            }
+        },
+        {
+            "title": "Фри",
+            "place": "Fast_Food",
+            "cost": 30,
+            "type": {
+                "first": "fastfood",
+                "second": "Фри"
+            }
+        },
+        {
+            "title": "Крылышки",
+            "place": "Оазис",
+            "cost": 70,
+            "type": {
+                "first": "fastfood",
+                "second": "Крылышки"
+            }
+        },
+        {
+            "title": "Крылышки",
+            "place": "Даамдуу",
+            "cost": 75,
+            "type": {
+                "first ": "fastfood ",
+                "second": "Крылышки"
+            }
+        },
+        {
+            "title": "Крылышки",
+            "place": "Карпинка",
+            "cost": 70,
+            "type": {
+                "first": "fastfood",
+                "second": "Крылышки"
+            }
+        },
+        {
+            "title": "Крылышки",
+            "place": "Black_Star",
+            "cost": 80,
+            "type": {
+                "first": "fastfood",
+                "second": "Крылышки"
+            }
+        },
+        {
+            "title": "Крылышки",
+            "place": "Fast_Food",
+            "cost": 80,
+            "type": {
+                "first": "fastfood",
+                "second": "Крылышки"
+            }
+        }
+    ]
+}

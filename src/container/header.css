@@ -1,0 +1,22 @@
+.header {
+    background-color: #F2EAD3;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 140px;
+}
+
+.logo .clock{
+    margin-top: 50px;
+}
+
+.clock {
+    margin-left: 200px;
+    margin-bottom: 150px;
+}
+
+.worktimeDiv {
+   margin-top: -150px;
+   margin-left: 450px;
+   font-family: 'Oswald', sans-serif;
+   font-size: 25px;
+}

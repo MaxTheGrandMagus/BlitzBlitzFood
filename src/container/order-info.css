@@ -1,0 +1,25 @@
+.input-div {
+    width: 96%;
+    background: linear-gradient(#e66465, #9198e5);
+    margin-top: 1px;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+
+.arrow_right {
+    margin-top: 40px;
+    margin-right: 30px;
+}
+
+.order-span {
+    margin-top: 10px;
+    margin-right: 40px;
+    color: #ffffff;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+}
+
+.order-strong {
+    color: black;
+}
