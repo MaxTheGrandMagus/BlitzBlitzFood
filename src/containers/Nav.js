@@ -24,6 +24,11 @@ export default class Nav extends React.Component {
             <Shaurma  data={this.state.data}/>);
     }
 
+    humburger = () => {
+        return (
+            <Hamburger  data={this.state.data}/>);
+    }
+
     render() {
         return (
             <Router>
@@ -32,7 +37,7 @@ export default class Nav extends React.Component {
                         <Route path="/" exact component={UI} />
                         <Route path="/FastFoodContainer" component={FastFoodContainer} />
                         <Route path="/shaurma" component={this.shaurma} />
-                        <Route path="/hamburger" component={Hamburger} />
+                        <Route path="/hamburger" component={this.humburger} />
                     </Switch>
                 </div>  
             </Router>
